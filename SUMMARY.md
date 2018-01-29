@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Data Binding](chapter1.md)
+* [Data Binding Library](databinding.md)
 
